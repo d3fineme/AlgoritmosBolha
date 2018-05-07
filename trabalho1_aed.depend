@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1525648494 source:c:\users\felipe alves\documents\unifei\trabalho1_aed\impl_bolhas.c
+	<stdio.h>
+	<stdlib.h>
+	"impl_bolhas.h"
+
+1525644919 c:\users\felipe alves\documents\unifei\trabalho1_aed\impl_bolhas.h
+
+1525648778 source:c:\users\felipe alves\documents\unifei\trabalho1_aed\main.c
+	<stdio.h>
+	<time.h>
+	"ES.h"
+	"impl_bolhas.h"
+	<windows.h>
+
+1525648725 c:\users\felipe alves\documents\unifei\trabalho1_aed\es.h
+
+1525648636 source:c:\users\felipe alves\documents\unifei\trabalho1_aed\es.c
+	<stdio.h>
+	<stdlib.h>
+	"ES.h"
+
